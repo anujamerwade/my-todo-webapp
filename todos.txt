@@ -1,0 +1,4 @@
+clean sofa
+place flipkart order
+buy onions
+buy clothes
